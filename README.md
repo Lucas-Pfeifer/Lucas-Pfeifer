@@ -9,7 +9,6 @@
 </a>
 <br />
 <br />
-<br />
 <a href="https://github.com/Lucas-Pfeifer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Pfeifer&layout=compact" alt="LucasPfeifer GitHub Stats" />
 <br />
