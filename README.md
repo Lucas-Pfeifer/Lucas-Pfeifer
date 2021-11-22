@@ -9,5 +9,11 @@
 </a>
 <br />
 <br />
+<a href="https://twitter.com/RisasDev%22%3E
+  <img align="left" alt="RisasDev" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+                                                                                                                                         <a href="https://discord.gg/pandacommunity%22%3E
+  <img align="left" alt="RisasDev" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+</a>
 
 <br />
