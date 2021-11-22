@@ -9,11 +9,11 @@
 </a>
 <br />
 <br />
-<a href="https://twitter.com/lucas2008pfeif1
+<a href="https://twitter.com/lucas2008pfeif1%22%3E
   <img align=left alt=LucasP width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 
-<a href="https://discord.com/channels/@me
+<a href="https://discord.com/channels/@me%22%3E
   <img align=left alt="Lucas_P#6869" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 <br />
