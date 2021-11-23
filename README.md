@@ -10,7 +10,7 @@
 <br />
 <br />
 <a href="https://github.com/Lucas-Pfeifer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Pfeifer&layout=compact" alt="LucasPfeifer GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Pfeifer&langs_count=5&theme=dark&layout=compact" alt="LucasPfeifer GitHub Stats" />
 <br />
 <br />
 <a href="https://twitter.com/lucas2008pfeif1">
