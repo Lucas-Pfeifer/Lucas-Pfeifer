@@ -17,7 +17,7 @@
   <img align="left" alt="lucas2008pfeif1" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 
-<a href="https://discord.gg/FNd5hseMqH">
+<a href="https://discord.com/users/575477637456068634">
   <img align="left" alt="Lucas_P#6869" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 <br />
