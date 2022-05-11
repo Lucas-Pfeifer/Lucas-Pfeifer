@@ -3,7 +3,7 @@
 <br />
 
 - 🌱 Programador de **JavaScript** 😄
-- 🌱 Aprendiendo de **Python** 😄
+- 🌊 Aprendiendo de **Python** 🌠
   
 <a href="https://github.com/Lucas-Pfeifer">
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Lucas-Pfeifer&show_icons=true&include_all_commits=true&theme=monokai&count_private=true" alt="LucasPfeifer GitHub Stats" />
